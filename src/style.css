@@ -1,0 +1,21 @@
+/* body{} */
+
+.navbar{
+    background-color: #1278CD;
+    color: #fff!important;
+}
+
+.navbar a{
+    color: #fff!important;
+}
+
+
+.btn-outline-primary{
+    background-color: #fff;
+    color: #000;
+}
+
+.btn-outline-primary:hover{
+    background-color: #1278CD;
+    color: #fff;
+}
